@@ -7,3 +7,5 @@ To create a webpage and dynamic table that contains UFO's data. In addition, to 
 ![](images/webpage.PNG)
 
 The result of the complited job is fully functional webpage that when opened shows unfiltered UFO Sightings. To narrow the data a user can search be one ore more criteria (date,city, state, country, and shape)
+
+![](images/search.png)
