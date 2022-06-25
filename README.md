@@ -9,3 +9,13 @@ The result of the completed job is a fully functional web page that when opened 
 ![](images/webpage.PNG)
 
 ![](images/search.png)
+
+## Summary
+Although, the web page is fully functional there are some drawbacks and upgrades suggestion:
+
+### Drawbacks
+A user should manually fill the search criteria so there should be a drop menu that offers a user possible options for criteria and increases usability.
+
+### Recommendations for future developments:
+1. To allow users to search by UFO duration time.
+2. To develop a possibility of adding a picture and video of UFO if they exist.
